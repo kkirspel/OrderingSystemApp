@@ -1,0 +1,72 @@
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.dll
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.pdb
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.xml
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog_3_KTK.Resources.resources
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.dll
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.xml
+C:\Users\Kevin\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.pdb
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.dll
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.pdb
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.xml
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog_3_KTK.Resources.resources
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.vbproj.GenerateResource.Cache
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.dll
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.xml
+C:\Users\csu\Desktop\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.pdb
+F:\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.dll
+F:\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.pdb
+F:\Prog 3 KTK\Prog 3 KTK\bin\Prog 3 KTK.xml
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\ResolveAssemblyReference.cache
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog_3_KTK.Resources.resources
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\GenerateResource.read.1.tlog
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\GenerateResource.write.1.tlog
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.dll
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.xml
+F:\Prog 3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\bin\Prog 3 KTK.dll.config
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\bin\Prog 3 KTK.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\bin\Prog 3 KTK.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\bin\Prog 3 KTK.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.vbprojAssemblyReference.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog_3_KTK.Resources.resources
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.vbproj.GenerateResource.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.vbproj.CoreCompileInputs.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Prog 3 KTK\obj\Debug\Prog 3 KTK.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\bin\Noodle Shop Register App.dll.config
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\bin\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\bin\Noodle Shop Register App.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\bin\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.vbprojAssemblyReference.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle_Shop_Register_App.Resources.resources
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.vbproj.GenerateResource.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.vbproj.CoreCompileInputs.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Prog3 KTK\Noodle Shop Register App\obj\Debug\Noodle Shop Register App.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.dll.config
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.pdb
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbprojAssemblyReference.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle_Shop_Register_App.Resources.resources
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbproj.GenerateResource.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbproj.CoreCompileInputs.cache
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Portfolio\Visual Basic.NET\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.pdb
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.dll.config
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.pdb
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\bin\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbprojAssemblyReference.cache
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle_Shop_Register_App.Resources.resources
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbproj.GenerateResource.cache
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.vbproj.CoreCompileInputs.cache
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.dll
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.xml
+C:\Users\kkirs_000\Desktop\Visual Basic\Noodle Shop Register App\Noodle Shop Register App code\obj\Debug\Noodle Shop Register App.pdb
