@@ -1,5 +1,5 @@
 # OrderingSystemApp
-simple web app concept for an ordering and check-out service
+Simple web app concept for an ordering and check-out service
 
 Download Visual Studio:   visualstudio.microsoft.com/downloads
 Using Visual Studio:      docs.microsoft.com/en-us/visualstudio/ide/quickstart-ide-orientation?view=vs-2017
