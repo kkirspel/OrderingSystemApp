@@ -1,8 +1,9 @@
 # OrderingSystemApp
 Simple web app concept for an ordering and check-out service
 
-Download Visual Studio:   visualstudio.microsoft.com/downloads
-Using Visual Studio:      docs.microsoft.com/en-us/visualstudio/ide/quickstart-ide-orientation?view=vs-2017
+Download Visual Studio:    https://visualstudio.microsoft.com/downloads
+
+Using Visual Studio:       https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-ide-orientation?view=vs-2017
 
 Directions: 
 - The location the source code is saved to will need to be updated within Noodle Shop Register App.sln
